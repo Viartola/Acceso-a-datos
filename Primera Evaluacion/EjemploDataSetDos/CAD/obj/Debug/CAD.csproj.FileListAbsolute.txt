@@ -1,0 +1,12 @@
+K:\clase\Grado superior\2H\Acceso a Datos\Primera Evaluacion\EjemploDataSetDos\CAD\bin\Debug\CAD.dll.config
+K:\clase\Grado superior\2H\Acceso a Datos\Primera Evaluacion\EjemploDataSetDos\CAD\bin\Debug\CAD.dll
+K:\clase\Grado superior\2H\Acceso a Datos\Primera Evaluacion\EjemploDataSetDos\CAD\bin\Debug\CAD.pdb
+K:\clase\Grado superior\2H\Acceso a Datos\Primera Evaluacion\EjemploDataSetDos\CAD\obj\Debug\CAD.csprojResolveAssemblyReference.cache
+K:\clase\Grado superior\2H\Acceso a Datos\Primera Evaluacion\EjemploDataSetDos\CAD\obj\Debug\CAD.dll
+K:\clase\Grado superior\2H\Acceso a Datos\Primera Evaluacion\EjemploDataSetDos\CAD\obj\Debug\CAD.pdb
+E:\clase\Grado superior\2H\Acceso a Datos\Primera Evaluacion\EjemploDataSetDos\CAD\bin\Debug\CAD.dll.config
+E:\clase\Grado superior\2H\Acceso a Datos\Primera Evaluacion\EjemploDataSetDos\CAD\bin\Debug\CAD.dll
+E:\clase\Grado superior\2H\Acceso a Datos\Primera Evaluacion\EjemploDataSetDos\CAD\bin\Debug\CAD.pdb
+E:\clase\Grado superior\2H\Acceso a Datos\Primera Evaluacion\EjemploDataSetDos\CAD\obj\Debug\CAD.csprojResolveAssemblyReference.cache
+E:\clase\Grado superior\2H\Acceso a Datos\Primera Evaluacion\EjemploDataSetDos\CAD\obj\Debug\CAD.dll
+E:\clase\Grado superior\2H\Acceso a Datos\Primera Evaluacion\EjemploDataSetDos\CAD\obj\Debug\CAD.pdb

@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.master.cs" Inherits="ProyectoWeb.Principal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <div id="cabecera">
+                <div id="contenidoCabecera">
+                    <div id="barraHorizontal">
+                        <ul>
+                            <li><a href="/Default.aspx">Home</a></li>
+                            <li><a href="/Clientes/AdministarClientes.aspx">Clientes</a></li>
+                            <li><a href="/Hoteles/AdministrarHoteles.aspx">Hoteles</a></li>
+                            <li><a href="/Reservas/AdministrarReservas.aspx">Reservas</a></li>
+                        </ul>
+                    </div>
+                    <div id="logotipo">
+                        <img src="/Imagenes/salesIcon.png" alt="LogoSalesianos" height="75"/>
+                    </div>
+                    <div id="titulo">
+                        <h1>Maquetando y Diseñando en ASP.NET</h1>
+                        <h2>Usando MasterPage y otros temas</h2>
+                    </div>
+                </div>
+            </div>
+            <div id="bajo">
+                <div id="columnaIzq">
+                     <asp:ContentPlaceHolder ID="ContenidoMenuContextual" runat="server">
+
+                     </asp:ContentPlaceHolder>
+                </div>
+                <div id="columnaCentro">
+                     <asp:ContentPlaceHolder ID="ContenidoPrincipal" runat="server">
+
+                     </asp:ContentPlaceHolder>
+                </div>
+                <div id="columnaDec">
+
+                </div>
+                <div id="pie">
+                    <span>Jaime López Viartola</span>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

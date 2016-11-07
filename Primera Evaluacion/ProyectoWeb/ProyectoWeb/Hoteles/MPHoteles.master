@@ -1,0 +1,19 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Principal.Master" AutoEventWireup="true" CodeBehind="MPHoteles.master.cs" Inherits="ProyectoWeb.Hoteles.MPHoteles" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContenidoMenuContextual" runat="server">
+
+     <ul id="menuContextual">
+        <li><a href="AdministrarHoteles.aspx">Administrar Hoteles</a></li>
+        <li><a href="AgregarHotel.aspx">Agergar Hotel</a></li>
+        <li><a href="VerDatosHotel.aspx">Ver Datos Hotel</a></li>
+    </ul>
+
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="ContenidoPrincipal" runat="server">
+
+    <asp:ContentPlaceHolder ID="ContenidoPrincipal" runat="server">
+
+    </asp:ContentPlaceHolder>
+
+</asp:Content>

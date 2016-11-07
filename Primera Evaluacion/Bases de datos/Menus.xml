@@ -1,0 +1,115 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Dia>
+    <id>91</id>
+    <Plato_1>Macarrones con tomate</Plato_1>
+    <Plato_2>Salchichas de pollo al horno</Plato_2>
+    <Postre>Fruta</Postre>
+    <Fecha>07/04/2015</Fecha>
+  </Dia>
+  <Dia>
+    <id>92</id>
+    <Plato_1>Borraja con patatas</Plato_1>
+    <Plato_2>Lomo en salsa</Plato_2>
+    <Postre>Yogurt</Postre>
+    <Fecha>08/04/2015</Fecha>
+  </Dia>
+  <Dia>
+    <id>93</id>
+    <Plato_1>Patatas guisadas con carne</Plato_1>
+    <Plato_2>Merluza a la andaluza</Plato_2>
+    <Postre>Fruta</Postre>
+    <Fecha>09/04/2015</Fecha>
+  </Dia>
+  <Dia>
+    <id>94</id>
+    <Plato_1>Judías verdes con patatas</Plato_1>
+    <Plato_2>Ternera guisada</Plato_2>
+    <Postre>Fruta</Postre>
+    <Fecha>10/04/2015</Fecha>
+  </Dia>
+  <Dia>
+    <id>95</id>
+    <Plato_1>Garbanzos estofados</Plato_1>
+    <Plato_2>Merluza con ensalada</Plato_2>
+    <Postre>Fruta</Postre>
+    <Fecha>13/04/2015</Fecha>
+  </Dia>
+  <Dia>
+    <id>96</id>
+    <Plato_1>Judías blancas con hortalizas</Plato_1>
+    <Plato_2>Salmón con lechuga</Plato_2>
+    <Postre>Fruta</Postre>
+    <Fecha>14/04/2015</Fecha>
+  </Dia>
+  <Dia>
+    <id>97</id>
+    <Plato_1>Acelgas rehogadas</Plato_1>
+    <Plato_2>Filete ruso con tomate</Plato_2>
+    <Postre>Fruta</Postre>
+    <Fecha>15/04/2015</Fecha>
+  </Dia>
+  <Dia>
+    <id>98</id>
+    <Plato_1>Lentejas estofadas</Plato_1>
+    <Plato_2>Tortilla francesa con ensalada</Plato_2>
+    <Postre>Fruta</Postre>
+    <Fecha>16/04/2015</Fecha>
+  </Dia>
+  <Dia>
+    <id>99</id>
+    <Plato_1>Sopa de ave</Plato_1>
+    <Plato_2>Canelones de carne</Plato_2>
+    <Postre>Yogurt</Postre>
+    <Fecha>17/04/2015</Fecha>
+  </Dia>
+  <Dia>
+    <id>100</id>
+    <Plato_1>Coditos con tomate</Plato_1>
+    <Plato_2>Albóndigas a la jardinera</Plato_2>
+    <Postre>Yogurt</Postre>
+    <Fecha>20/04/2015</Fecha>
+  </Dia>
+  <Dia>
+    <id>101</id>
+    <Plato_1>Arroz a la cubana</Plato_1>
+    <Plato_2>Lomitos de merluza al horno</Plato_2>
+    <Postre>Fruta</Postre>
+    <Fecha>21/04/2015</Fecha>
+  </Dia>
+  <Dia>
+    <id>102</id>
+    <Plato_1>Garbanzos estofados</Plato_1>
+    <Plato_2>Varitas de merluza</Plato_2>
+    <Postre>Fruta</Postre>
+    <Fecha>22/04/2015</Fecha>
+  </Dia>
+  <Dia>
+    <id>103</id>
+    <Plato_1>Espaguettis a la bolognesa</Plato_1>
+    <Plato_2>Pescado a la andaluza</Plato_2>
+    <Postre>Fruta</Postre>
+    <Fecha>27/04/2015</Fecha>
+  </Dia>
+  <Dia>
+    <id>104</id>
+    <Plato_1>Patatas guisadas con zanahoria</Plato_1>
+    <Plato_2>Albóndigas con tomate</Plato_2>
+    <Postre>Fruta</Postre>
+    <Fecha>28/04/2015</Fecha>
+  </Dia>
+  <Dia>
+    <id>105</id>
+    <Plato_1>Sopa de fideos</Plato_1>
+    <Plato_2>Pavo guisado</Plato_2>
+    <Postre>Yogurt</Postre>
+    <Fecha>29/04/2015</Fecha>
+  </Dia>
+  <Dia>
+    <id>106</id>
+    <Plato_1>Arroz a la cubana</Plato_1>
+    <Plato_2>Merluza en salsa verde</Plato_2>
+    <Postre>Fruta</Postre>
+    <Fecha>30/04/2015</Fecha>
+  </Dia>
+</NewDataSet>
